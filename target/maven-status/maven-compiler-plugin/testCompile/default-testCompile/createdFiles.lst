@@ -1,0 +1,9 @@
+com/redmart/Screens/AddressActivity.class
+com/redmart/Base/ScreenBase.class
+com/redmart/Base/TestBase.class
+com/redmart/Utility/AppiumServer.class
+com/redmart/Screens/SignUpActivity.class
+com/redmart/TestCases/TestScenario.class
+com/redmart/Screens/HomeActivity.class
+com/redmart/Utility/CommonUtility.class
+com/redmart/Screens/OnSale.class

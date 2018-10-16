@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Redmart android page object model" duration-ms="32129" started-at="2018-10-16T06:25:43 IST" finished-at="2018-10-16T06:26:15 IST">
+    <groups>
+    </groups>
+    <test name="Onboarding" duration-ms="32129" started-at="2018-10-16T06:25:43 IST" finished-at="2018-10-16T06:26:15 IST">
+      <class name="com.redmart.TestCases.TestScenario">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.redmart.TestCases.TestScenario@192d3247]" name="setUp" is-config="true" duration-ms="19611" started-at="2018-10-16T06:25:23 IST" finished-at="2018-10-16T06:25:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="init()[pri:0, instance:com.redmart.TestCases.TestScenario@192d3247]" name="init" is-config="true" duration-ms="527" started-at="2018-10-16T06:25:43 IST" finished-at="2018-10-16T06:25:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="scenarioOne()[pri:0, instance:com.redmart.TestCases.TestScenario@192d3247]" name="scenarioOne" duration-ms="31565" started-at="2018-10-16T06:25:44 IST" finished-at="2018-10-16T06:26:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenarioOne -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.redmart.TestCases.TestScenario@192d3247]" name="tearDown" is-config="true" duration-ms="3418" started-at="2018-10-16T06:26:20 IST" finished-at="2018-10-16T06:26:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.redmart.TestCases.TestScenario -->
+    </test> <!-- Onboarding -->
+  </suite> <!-- Redmart android page object model -->
+</testng-results>
